@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "maqueen": "github:dfrobot/pxt-maqueen#v1.5.4"
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.5.4",
+        "pxt-orientbit": "github:mintgenie/pxt-orientbit#v1.1.0"
     },
     "files": [
         "main.blocks",
